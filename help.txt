@@ -1,0 +1,19 @@
+1- go mod init Module name
+
+update module
+2- go get -u github.com/jalaali/go-jalaali
+
+update modules to last version
+2- go get -u
+
+debuger
+3- go get github.com/go-delve/delve
+
+make wotkspace
+4- go work init
+
+
+5- gowork=off go run main.go
+
+optimize files
+6- go mod tidy
